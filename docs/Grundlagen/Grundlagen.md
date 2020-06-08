@@ -1,5 +1,5 @@
 ---
-title: Ersten
+title: Grundlagen
 has_children: true
 nav_order: 2
 ---
