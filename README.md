@@ -1,37 +1,16 @@
+## Einleitung
+
+Hier entsteht ein frei verwendbares digitales Lehrbuch für die 11.Klasse Informatik in NRW. Soweit in den einzelnen Unterkapiteln nicht anders gekennzeichnet sind alle Inhalte, Bilder und Texte sind unter einer [CC-BY-SA-Lizenz](https://creativecommons.org/licenses/by-sa/4.0/legalcode.de) gestellt. Es ist zu beachten, dass verlinkte Inhalte unter andere Lizenzen gestellt sein können.
+
+Dieses digitale Lehrbuch ist in der Markdown-Syntax verfasst und kann daher leicht in andere Formate überführt werden. Sollen Teile dieses Lehrbuchs in eine Präsentation übernommen werden, so bietet sich das Open-Source Programm Marp zur freien Verwendung an. Aber natürlich sind auch viele andere Markdown-Editoren für alle Systeme frei erhältlich. Dieses können den Quelltext, häufig mit Pandoc ,in andere Formate überführen. Ebenfalls hierfür geeignet ist elearn.js. Standardmäßig lässt sich dieses Lehrbuch als Pdf-, Mobi- oder ePub-Datei herunterladen.
+
+## Lizenzen
+
+![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 
-## Herzlich Willkommen zur OER-Buchvorlage
+Dieses Werk ist lizenziert unter einer
 
-Diese [Buchvorlage](https://github.com/budumlu/OER-Buch-Vorlage/edit/master/README.md) kann frei verwendet werden.
+[Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-sa/4.0/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/budumlu/Thymio-Book/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+. Es ist zu beachten, dass verlinkte und eingebettete Inhalte sowie Bilder unter andere Lizenzen gestellt sein können.
