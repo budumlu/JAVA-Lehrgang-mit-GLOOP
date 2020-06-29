@@ -5,10 +5,7 @@ has_children: true
 nav_order: 1
 ---
 
-# 2.1 BlueJ als Java-Editor
-
-## BlueJ und GLOOP
-
+## 2.1 BlueJ als Java-Editor
 Für die Arbeit mit diesem Lehrbuch benötigt man die Java-Bibliothek GLOOP und einen Java-Editor. Im folgenden wurde BlueJ eingesetzt. Eine Installationsanleitung ist [hier](http://www.schulentwicklung.nrw.de/cms/programmierung-mit-gloop/installation/index.html) verlinkt.
 
 ## Zeichen und Texturen
